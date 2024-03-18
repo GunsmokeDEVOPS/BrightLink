@@ -82,11 +82,11 @@
         <p><a href="#">Link</a></p>
       </div>
       <div class="col-sm-8 text-left">
-        <h1>Welcome</h1>
-        <p>"Our vision is to emerge as a leading force in recruitment, staffing, and web development where innovation
+        <h1>Welcome to Brigh LINk</h1>
+        <!-- <p>"Our vision is to emerge as a leading force in recruitment, staffing, and web development where innovation
           thrives, businesses prosper, and individuals excel. We aim to set industry benchmarks, consistently delivering
           dynamic web solutions and outstanding staffing services while contributing to the growth and success of our
-          clients and team."</p>
+          clients and team."</p> -->
         <hr>
         <h3>Test</h3>
         <p>Lorem ipsum...</p>
